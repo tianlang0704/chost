@@ -1,0 +1,5 @@
+#mainBody {
+  position: static;
+  z-index: -1;
+  background-color: brown;
+}

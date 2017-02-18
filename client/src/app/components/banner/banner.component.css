@@ -1,0 +1,9 @@
+#mainBanner {
+  background-color: black;
+  padding: 0;
+  overflow: hidden;
+  height: 200px;
+}
+#mainBanner img{
+  opacity: 0.7
+}
